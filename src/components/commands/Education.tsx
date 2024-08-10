@@ -17,16 +17,16 @@ const Education: React.FC = () => {
 
 const eduBg = [
   {
-    title: "B.Sc (Hons) in Computing",
-    desc: "Edinburgh Napier University | 2018 ~ 2019",
+    title: "B.Sc in Computer Science (Minor: Applied Mathematics)",
+    desc: "New York University Abu Dhabi | 2021 ~ Present",
   },
   {
-    title: "HND in Computing & System Development",
-    desc: "Info Myanmar University | 2016 - 2018",
+    title: "Software Engineering",
+    desc: "42 Abu Dhabi | June 2021",
   },
   {
-    title: "IELTS 6.5",
-    desc: "British Council Myanmar | 2017",
+    title: "High School education with a focus on Mathematics and Physics",
+    desc: "Nazarbayev Intellectual School of Physics and Mathematics in Astana | 2014 - 2020",
   },
 ];
 

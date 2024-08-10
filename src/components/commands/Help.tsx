@@ -18,11 +18,11 @@ const Help: React.FC = () => {
           <CmdDesc>- {desc}</CmdDesc>
         </CmdList>
       ))}
-      <KeyContainer>
+      {/* <KeyContainer>
         <div>Tab or Ctrl + i&nbsp; =&gt; autocompletes the command</div>
         <div>Up Arrow {generateTabs(5)} =&gt; go back to previous command</div>
         <div>Ctrl + l {generateTabs(5)} =&gt; clear the terminal</div>
-      </KeyContainer>
+      </KeyContainer> */}
     </HelpWrapper>
   );
 };

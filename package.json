@@ -15,9 +15,11 @@
     "format": "prettier --write ."
   },
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
+    "save-dev": "^0.0.1-security",
     "styled-components": "^5.3.10",
     "styled-normalize": "^8.0.7"
   },
